@@ -15,7 +15,7 @@
 					<?php include('posts.php'); ?>
 				</div>
 				<div id="footer">
-					<p>&copy Clickit team 2015</p>
+					<p>&copy; Clickit team 2015</p>
 				</div>
 			</div>
 	</body>
